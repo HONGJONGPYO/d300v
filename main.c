@@ -11,7 +11,7 @@
 void l_sh();
 void r_sh();
 unsigned char a;
-
+///////////////////////////////////////////////////////////////////////
 int main(void)
 {
     /* Replace with your application code */
